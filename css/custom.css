@@ -1,0 +1,30 @@
+/* body styles */ 
+.body {
+  font-family: 'Monsterrat Sans', sans-serif;
+  background-color: #11182B;
+  width: 200px;
+  color: red;
+}
+
+/* main type styles */ 
+h5 {
+  font-family: 'Monsterrat Sans', sans-serif;
+  font-weight: 600;
+  font-size: 1.6rem;
+}
+
+/* navbar header styles */ 
+.navbar {
+  background-color: #11182B;
+}
+
+/* button styles */ 
+
+
+/* heroSection styles */ 
+.heroContent {
+  font-family: 'Monsterrat Sans', sans-serif;
+  text-align: left;
+  width: 50%;
+}
+ 
